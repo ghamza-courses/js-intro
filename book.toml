@@ -1,0 +1,14 @@
+[book]
+authors = ["Hamza Jadid"]
+language = "en"
+multilingual = false
+src = "src"
+title = "JavaScript Level 0"
+
+[output.html]
+# cname = "ghamza.dev/js-lvl-0"
+# default-theme = "light"
+git-repository-url = "https://github.com/Ghamza-Jd/js-lvl-0"
+git-repository-icon = "fa-github"
+# preferred-dark-theme = "navy"
+additional-js = ["./js/code-hl.js"]
