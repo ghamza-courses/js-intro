@@ -5,7 +5,7 @@
   - [Setup](./chapter_1/setup.md)
     - [Windows](./chapter_1/win_setup.md)
 - [Basic Concepts](./chapter_2/basic_concepts.md)
-  - [Exercies](./chapter_2/exercies.md)
+  - [Exercies]()
 - [Standard Input and Output]()
 - [Control Flow]()
 - [Functions]()
